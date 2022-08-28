@@ -1,0 +1,15 @@
+.button {
+    cursor: pointer;
+}
+
+.contactsItem {
+    width: 50vh;
+    display: flex;
+align-items: center;
+justify-content:space-between
+
+}
+
+.contactsItem:not(:last-child){
+    margin-bottom: 5px;
+}
