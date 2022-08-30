@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import useLocalStorage from 'hooks/useLocalStorage';
 import shortid from 'shortid';
 import Form from './Form/Form';
